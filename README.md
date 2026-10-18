@@ -8,6 +8,8 @@ The coach inside your sim. Fly RC-X runs alongside RealFlight Evolution: it call
 
 Get **FlyRCX-Setup-x.y.z.exe** from the [latest release](https://github.com/HarmoniqOS/flyrcx-releases/releases/latest).
 
+See **[fixes and updates](CHANGELOG.md)** for what changed in each version.
+
 ## Install
 
 1. Run the installer. Windows may say "Windows protected your PC": click **More info**, then **Run anyway**. The beta isn't code-signed yet.
