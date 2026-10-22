@@ -1,6 +1,13 @@
 # Fly RC-X: fixes and updates
 
-Fly RC-X updates itself. This page lists what changed in each version.
+Fly RC-X checks for updates while it runs. When one is ready it tells you, and installs it when you restart or close the app. This page lists what changed in each version.
+
+## 0.1.2
+
+- **Quick Start guide.** New **QUICK START** button in the top bar on every screen. It opens a short guide covering setup, each mode, and what to do when something isn't working.
+- **Clear message when RealFlight isn't running.** Instead of a technical connection error, Fly RC-X now says "RealFlight not detected" and tells you what to do. The Fly screen connects automatically once RealFlight is running. Thanks, Stan.
+- **Update notices.** When a new version has downloaded, a banner says so, with **Restart now** and a link to what's new. If you'd rather keep flying, it installs the next time you close Fly RC-X. Fly RC-X now checks for updates every 30 minutes. This starts working from 0.1.2 on.
+- **New SIM status tile.** The top bar shows whether RealFlight is running, next to RF LINK and FOCUS PAUSE.
 
 ## 0.1.1
 

@@ -10,13 +10,15 @@ Get **FlyRCX-Setup-x.y.z.exe** from the [latest release](https://github.com/Harm
 
 See **[fixes and updates](CHANGELOG.md)** for what changed in each version.
 
+New here? Read the **[Quick Start](QUICKSTART.md)**.
+
 ## Install
 
 1. Run the installer. Windows may say "Windows protected your PC": click **More info**, then **Run anyway**. The beta isn't code-signed yet.
 2. In RealFlight, turn on RealFlight Link (Settings, Physics), then restart RealFlight.
 3. Open Fly RC-X. The top bar should read **RF LINK: ENABLED**.
 
-Fly RC-X updates itself when a new beta build is out.
+Fly RC-X checks for updates while it runs. When a new version is ready, a banner tells you, and it installs when you restart or close the app.
 
 ## Requirements
 
